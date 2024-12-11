@@ -5,3 +5,5 @@
 ###### [03. A Hard Trip 一次辛苦的旅行](./03.%20A%20Hard%20Trip.md)
 ###### [04. A Horrible Earthquake 可怕的地震](./04.%20A%20Horrible%20Earthquake.md)
 ###### [05. The Great President 伟大的总统](./05.%20The%20Great%20President.md)
+###### [06. A Brave Maid 勇敢的女仆](./06.%20A%20Brave%20Maid.md)
+###### [07. A Fair Competition 公平的比赛](./07.%20A%20Fair%20Competition.md)
