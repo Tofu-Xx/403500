@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/mean,composer,yeoman,nette
 # Edit at https://www.toptal.com/developers/gitignore?templates=mean,composer,yeoman,nette
 
-### Composer ###
+## Composer ##
 composer.phar
 /vendor/
 
@@ -9,10 +9,10 @@ composer.phar
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
 # composer.lock
 
-### MEAN ###
+## MEAN ##
 # MEAN Stack Base
 
-### MEAN.Node Stack ###
+## MEAN.Node Stack ##
 # Logs
 logs
 *.log
@@ -143,8 +143,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-### MEAN.Anglar Stack ###
-## Angular ##
+## MEAN.Anglar Stack ##
+# Angular #
 # compiled output
 dist/
 tmp/
@@ -174,7 +174,7 @@ e2e/*.map
 # System Files
 .DS_Store/
 
-### Nette ###
+## Nette ##
 # Nette - http://nette.org
 # Ignore /log and /temp directories content but commit .htaccess settings
 /log/*
@@ -182,7 +182,7 @@ e2e/*.map
 /temp/*
 !/temp/.htaccess
 
-### Yeoman ###
+## Yeoman ##
 
 build/
 
